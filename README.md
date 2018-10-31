@@ -6,7 +6,7 @@ I realize this readme is lacking in detail... Hit me up with questions in the Is
 
 ## Installing
 
-You'll need Minecraft, of course, and some sort of shaders mod. I recommend [Optifine](https://optifine.net/), as it has a shaders mod built it. You'll need [Forge](https://files.minecraftforge.net/) installed first so you can install Optifine.
+You'll need Minecraft, of course, and some sort of shaders mod. I recommend [Optifine](https://optifine.net/), as it has a shaders mod built in. 
 
 Once you have that all set up, find the `shaderpacks` folder in your Minecraft resources folder on your hard drive and drop the `Inverter` folder into it. Run Minecraft and select Inverter from Optifine's shader menu.
 
