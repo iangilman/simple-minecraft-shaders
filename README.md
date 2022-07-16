@@ -14,6 +14,6 @@ Once you have that all set up, find the `shaderpacks` folder in your Minecraft r
 
 Take a look at `Inverter/shaders/final.fsh` and play around! The language you're using is called GLSL. http://thebookofshaders.com/ is a good introduction (though it's not specifically about Minecraft). After each change you make, don't forget to save. You can try it directly in Minecraft without having to restart the game; to get the changes to take effect you can hit `F3 + R` ([part of Optifine](https://github.com/sp614x/optifine/blob/master/OptiFineDoc/doc/shaders.txt)) or switch to another shader and back again.
 
-If you want to take it further, you can watch this [in-depth tutorial series](https://www.youtube.com/watch?v=swjfVnGJiNY). You can also examine the code of more advanced shaders, such as [Chocapic13's Shaders](http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1293898-chocapic13s-shaders).
+If you want to take it further, [@saada2006](https://github.com/saada2006) has a great tutorial series at https://github.com/saada2006/MinecraftShaderProgramming. You can also examine the code of more advanced shaders, such as [Chocapic13's Shaders](http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1293898-chocapic13s-shaders).
 
-Thanks to [TheCool1James's intro](https://www.youtube.com/watch?v=VprAz3847yY) for many of the links above.
+Learning anything is easier with a community. [The shaderLABs Discord server](https://discordapp.com/invite/F4BtNAc) is a vibrant place to connect with other shader programmers, both novice and experienced.
